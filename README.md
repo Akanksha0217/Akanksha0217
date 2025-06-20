@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I am Akanksha 👋
+# 👋 Hi there, I'm Akanksha!
 
-<!--
-**Akanksha0217/Akanksha0217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student | 💻 Aspiring Full Stack Developer  
+🌱 Currently doing a Full Stack Internship at **ScaleFull Technologies**  
+✨ Exploring web technologies and building mini projects  
+🐍 learning **Python**, **SQL**, and **Power BI** for data handling and analysis
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills
+
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+- **Backend**: Node.js (Learning), Express.js
+- **Database**: MongoDB (Learning), MySQL, SQL
+- **Programming**: Python (Basics, Projects in Progress)
+- **Tools**: Git, GitHub, VS Code, Power BI
+
+---
+
+## 🔥 Ongoing Projects
+
+> 👉 Explore all my [GitHub Repositories](https://github.com/Akanksha0217?tab=repositories)
+
+---
+
+## 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkcdin.com/in/akanksha- baykar-614116228/) 
+- 📧 akankshabaykar@gmail.com
+
