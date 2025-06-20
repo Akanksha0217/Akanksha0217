@@ -1,4 +1,4 @@
-## Hi, I am Akanksha 👋
+
 # 👋 Hi there, I'm Akanksha!
 
 🎓 Computer Engineering student | 💻 Aspiring Full Stack Developer  
