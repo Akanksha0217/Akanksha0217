@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Akanksha!
 
-🎓 Computer Engineering student | 💻 Aspiring Full Stack Developer  
+🎓 Computer Engineer | 💻 Aspiring Full Stack Developer  
 🌱 Currently doing a Full Stack Internship at **ScaleFull Technologies**  
 ✨ Exploring web technologies and building mini projects  
 🐍 learning **Python**, **SQL**, and **Power BI** for data handling and analysis
