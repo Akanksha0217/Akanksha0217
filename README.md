@@ -11,9 +11,8 @@
 ## 💡 Skills
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap
-- **Backend**: Node.js (Learning), Express.js
-- **Database**: MongoDB (Learning), MySQL, SQL
 - **Programming**: Python (Basics, Projects in Progress)
+- **Database**: MongoDB (Learning), MySQL, SQL
 - **Tools**: Git, GitHub, VS Code, Power BI
 
 ---
