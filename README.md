@@ -17,6 +17,13 @@
 
 ---
 
+### 👋 Hi Akanksha Here !'s GitHub Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akanksha0217&theme=github_dark)
+
+
+
+
 ## 🔥 Ongoing Projects
 
 > 👉 Explore all my [GitHub Repositories](https://github.com/Akanksha0217?tab=repositories)
