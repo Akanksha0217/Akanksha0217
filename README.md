@@ -24,6 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"padding="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"padding="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="Netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
 
 </p>
 
@@ -31,6 +32,7 @@
  <p align="left">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
   </p>
 ---
 
@@ -62,12 +64,14 @@
 ## 🔥 Ongoing Projects
 
 > 👉 Explore all my [GitHub Repositories](https://github.com/Akanksha0217?tab=repositories)
+> - 🔗 [netlify] https://app.netlify.com/teams/akanksha0217/projects
+> - 🔗[Vercel]https://vercel.com/akanksha-baykars-projects
 
 ---
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkcdin.com/in/akanksha-baykar-614116228/) 
 - 📧 akankshabaykar@gmail.com
-- https://app.netlify.com/teams/akanksha0217/projects
+- 🔗 [LinkedIn](https://www.linkcdin.com/in/akanksha-baykar-614116228/) 
+
 
