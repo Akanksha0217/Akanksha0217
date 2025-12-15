@@ -1,4 +1,3 @@
-
 # 👋 Hi there, I'm Akanksha!
 
 🎓 Computer Engineer | 💻 Aspiring Full Stack Developer  
