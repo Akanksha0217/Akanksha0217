@@ -57,8 +57,6 @@
 ## 🔥 Ongoing Projects
 
 > 👉 Explore all my [GitHub Repositories](https://github.com/Akanksha0217?tab=repositories)
-> - 🔗 [netlify] https://app.netlify.com/teams/akanksha0217/projects
-> - 🔗[Vercel]https://vercel.com/akanksha-baykars-projects
 
 ---
 
