@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Akanksha!
 
-🎓 Computer Engineer | 💻 Aspiring Full Stack Developer  
+### 🎓 Computer Engineer | Full Stack Developer | Aspiring AI Technology
 🌱 Currently doing a Full Stack Internship at **ScaleFull Technologies**  
 ✨ Exploring web technologies and building mini projects  
 🔍 Currently exploring AI & Machine Learning fundamentals using Python.
