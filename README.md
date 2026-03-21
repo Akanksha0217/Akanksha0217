@@ -1,60 +1,78 @@
-# 👋 Hi there, I'm Akanksha!
+# 👋 Hey, I'm Akanksha 🚀  
 
-### 🎓 Computer Engineer | Full Stack Developer | Aspiring AI Technology
-💡 Passionate about building scalable web applications and exploring AI-driven solutions
-🤖 AI Enthusiast exploring Machine Learning, Deep Learning & real-world AI integrations
+💻 **Full Stack Developer | AI Enthusiast | Future Tech Explorer**  
+
+✨ Turning ideas into real-world web applications  
+🤖 Exploring AI + Web integration  
+⚡ Currently mastering **Next.js**, **TypeScript**, and scalable systems  
 
 ---
-### 🛠️ Languages and Tools:
-<p align="left">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js" padding="20"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" padding="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" padding="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql"padding="20"/>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" height="40" alt="SQL Icon" padding="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"padding="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"padding="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"padding="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="40" alt="Netlify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
+## 🌟 About Me  
 
+- 🎓 Computer Engineering Student  
+- 🔥 Passionate about building modern web apps & AI-powered solutions  
+- 🚀 Always learning, always building  
+
+---
+
+## ⚡ Tech Stack  
+
+### 💻 Frontend  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,bootstrap" />
 </p>
- 
- ### Learning tools
- <p align="left">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" padding="20"/>
-   <img src="https://img.icons8.com/color/48/power-bi.png" height="40" alt="Power BI"padding="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"style="margin-right:20px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"
-       height="40"
-       alt="Machine Learning"
-       style="margin-right:20px;" />
 
-  </p>
+### ⚙️ Backend & Database  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### 🛠 Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode,vercel,netlify" />
+</p>
+
 ---
 
-### 📊 GitHub Stats
+## 🤖 AI Journey  
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+💡 Currently exploring:  
+- Machine Learning  
+- Deep Learning basics  
+- AI Automation Projects  
+- Data Visualization (Power BI)  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akanksha0217&theme=github_dark"
-       alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akanksha0217&theme=tokyonight" />
 </p>
-
-
-
-## 🔥 Ongoing Projects
-
-> 👉 Explore all my [GitHub Repositories](https://github.com/Akanksha0217?tab=repositories)
 
 ---
 
-## 📫 Connect with Me
+## 🔥 What I'm Working On  
 
-- 📧 akankshabaykar@gmail.com
-- 🔗 [LinkedIn](https://www.linkcdin.com/in/akanksha-baykar-614116228/)
--🔗 [Portfolio](https://myprotfoliousingreact.netlify.app/)
+🚀 Full Stack Apps using **Next.js + TypeScript**  
+🤖 AI-powered mini projects  
+📈 Improving problem solving & system design  
 
+---
 
+## 🌐 Let's Connect  
+
+📧 akankshabaykar@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/akanksha-baykar-614116228/)  
+🌍 [Portfolio](https://myprotfoliousingreact.netlify.app/)  
+
+---
+
+## ✨ Quote  
+
+> 💡 *"I don't just write code — I build solutions that make an impact."*
