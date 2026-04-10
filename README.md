@@ -10,7 +10,6 @@
 
 ## 🌟 About Me  
 
-- 🎓 Computer Engineering Student  
 - 🔥 Passionate about building modern web apps & AI-powered solutions  
 - 🚀 Always learning, always building  
 
