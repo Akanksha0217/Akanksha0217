@@ -11,7 +11,7 @@
 ## 🌟 About Me  
 
 - 🔥 Passionate about building modern web apps & AI-powered solutions  
-- 🚀 Always learning, always building  
+- 🚀 Always learning, always building ... 
 
 ---
 
