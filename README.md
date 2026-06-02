@@ -4,7 +4,7 @@
 
 ✨ Turning ideas into real-world web applications  
 🤖 Exploring AI + Web integration  
-⚡ Currently mastering **Next.js**, **TypeScript**, and scalable systems  
+⚡ Currently mastering **Next.js**, **TypeScript**.  
 
 ---
 
